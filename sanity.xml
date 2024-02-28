@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<groups>
+	<run>
+		<include name ="smoke" />
+	</run>
+</groups>
+<listeners>
+	<listener class-name = "Utility.ExtentReport_Manager" />
+</listeners>
+  <test thread-count="5" name="Test">
+  <parameter name ="os" value="Windows"/>
+  <parameter name = "browser" value="Chrome"/>
+    <classes>
+      <class name="TestCases.IdentifyBikes"/>
+      <class name ="TestCases.Identify_UsedCars"/>
+      <class name ="TestCases.LogInGoogle"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
