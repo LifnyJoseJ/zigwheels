@@ -15,7 +15,6 @@ import com.assertthat.selenium_shutterbug.core.Shutterbug;
 
 public class Upcomming_bikes {
 	WebDriver driver;
-	
 	//Constructor 
 	public Upcomming_bikes(WebDriver driver){
 		this.driver = driver;
@@ -50,7 +49,6 @@ public class Upcomming_bikes {
 	WebElement head_honda;
 	
 	//Actions
-	
 	public void select_upcommingBikes()
 	{
 		Actions act = new Actions(driver);

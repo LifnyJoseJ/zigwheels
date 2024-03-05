@@ -1,0 +1,51 @@
+10:04:40.779 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+10:04:45.915 [main] INFO  TestCases.IdentifyBikes - New Bikes menu is hovered and Upcoming Bikes is cliked
+10:04:53.924 [main] INFO  TestCases.IdentifyBikes - Manufacture HONDA is chosen
+10:04:55.223 [main] INFO  TestCases.IdentifyBikes - Test Case Passed
+10:04:55.439 [main] INFO  TestCases.IdentifyBikes - View More button is clicked
+10:05:08.772 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+10:05:47.584 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+10:06:15.296 [main] INFO  TestCases.Identify_UsedCars - Used car menu is hovered and Location is chosen as Chennai
+10:06:15.784 [main] INFO  TestCases.Identify_UsedCars - Test Case Passed
+10:06:22.798 [main] INFO  TestCases.Identify_UsedCars - Popular Models are displayed
+10:06:22.798 [main] INFO  TestCases.Identify_UsedCars - *********************** Ending Used Cars *************************
+10:07:01.612 [main] INFO  TestCases.LogInGoogle - *********************** Starting Google Account Login *************************
+10:07:07.200 [main] INFO  TestCases.LogInGoogle - Login button is clicked
+10:07:08.093 [main] INFO  TestCases.LogInGoogle - Continue with google option is clicked
+10:07:11.371 [main] INFO  TestCases.LogInGoogle - Email Id is entered
+10:07:11.706 [main] INFO  TestCases.LogInGoogle - Test Case Passed
+10:07:16.635 [main] INFO  TestCases.LogInGoogle - Error message is captured
+10:07:16.636 [main] INFO  TestCases.LogInGoogle - *********************** Ending Google Account Login *************************
+17:32:38.866 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+17:32:40.595 [main] INFO  TestCases.IdentifyBikes - New Bikes menu is hovered and Upcoming Bikes is cliked
+17:32:42.692 [main] INFO  TestCases.IdentifyBikes - Manufacture HONDA is chosen
+17:32:43.152 [main] INFO  TestCases.IdentifyBikes - Test Case Passed
+17:32:43.239 [main] INFO  TestCases.IdentifyBikes - View More button is clicked
+17:32:50.958 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+17:32:59.912 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+17:33:04.954 [main] INFO  TestCases.Identify_UsedCars - Used car menu is hovered and Location is chosen as Chennai
+17:33:05.418 [main] INFO  TestCases.Identify_UsedCars - Test Case Passed
+17:33:11.201 [main] INFO  TestCases.Identify_UsedCars - Popular Models are displayed
+17:33:11.201 [main] INFO  TestCases.Identify_UsedCars - *********************** Ending Used Cars *************************
+17:33:22.946 [main] INFO  TestCases.LogInGoogle - *********************** Starting Google Account Login *************************
+17:33:28.410 [main] INFO  TestCases.LogInGoogle - Login button is clicked
+17:33:29.068 [main] INFO  TestCases.LogInGoogle - Continue with google option is clicked
+17:33:31.461 [main] INFO  TestCases.LogInGoogle - Email Id is entered
+17:33:31.711 [main] INFO  TestCases.LogInGoogle - Test Case Passed
+17:33:36.112 [main] INFO  TestCases.LogInGoogle - Error message is captured
+17:33:36.112 [main] INFO  TestCases.LogInGoogle - *********************** Ending Google Account Login *************************
+10:37:00.410 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+10:38:23.381 [main] INFO  TestCases.IdentifyBikes - Manufacture HONDA is chosen
+10:38:24.053 [main] INFO  TestCases.IdentifyBikes - Test Case Passed
+10:38:24.196 [main] INFO  TestCases.IdentifyBikes - View More button is clicked
+10:38:39.004 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+21:19:58.756 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+21:20:04.372 [main] INFO  TestCases.IdentifyBikes - New Bikes menu is hovered and Upcoming Bikes is cliked
+21:20:07.309 [main] INFO  TestCases.IdentifyBikes - Manufacture HONDA is chosen
+21:20:07.795 [main] INFO  TestCases.IdentifyBikes - Test Case Passed
+21:20:07.934 [main] INFO  TestCases.IdentifyBikes - View More button is clicked
+21:20:19.516 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+21:20:40.464 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+21:21:12.388 [main] INFO  TestCases.Identify_UsedCars - Popular Models are displayed
+21:21:12.389 [main] INFO  TestCases.Identify_UsedCars - *********************** Ending Used Cars *************************
+21:21:22.768 [main] INFO  TestCases.LogInGoogle - *********************** Starting Google Account Login *************************

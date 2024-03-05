@@ -45,8 +45,8 @@ public class UsedCars {
 	public void select_Cars() throws InterruptedException
 	{
 		Actions act = new Actions(driver);
-		act.moveToElement(link_usedCar).perform();
-		car_location.click();
+		act.moveToElement(link_usedCar).perform();//Used Cars
+		car_location.click();//chennai
 		//Thread.sleep(3000);
 	}
 	
@@ -61,17 +61,15 @@ public class UsedCars {
 		}
 	}
 	
-	public void display_names()
+	public void display_popularModels()
 	{
-		//JavascriptExecutor js = (JavascriptExecutor) driver;
-		//js.executeScript("window.scrollBy(0,900);","");
+		
 		System.out.println("****************** Popular Models ************************");
 		for(WebElement models:car_models)
 		{
 			String str = models.getText();
 			System.out.println(str);
 		}
-		//js.executeScript("window.scrollBy(0,-document.body.scrollHeight)");
 		Shutterbug.shootPage(driver,Capture.FULL, true).save("C:\\Users\\2303711\\eclipse-workspace\\Hackathon\\ScreenShot_Login\\Used_Cars");
 	}
 }

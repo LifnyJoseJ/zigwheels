@@ -1,0 +1,45 @@
+17:00:37.063 [main] INFO  TestCases.Identify_UsedCars - Popular Models are displayed
+17:00:37.079 [main] INFO  TestCases.Identify_UsedCars - *********************** Ending Used Cars *************************
+17:00:52.132 [main] INFO  TestCases.LogInGoogle - *********************** Starting Google Account Login *************************
+17:04:45.013 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+17:06:29.240 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+17:13:21.017 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+17:15:39.136 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+17:16:23.093 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+17:16:33.339 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+22:08:33.241 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+22:08:37.948 [main] INFO  TestCases.IdentifyBikes - New Bikes menu is hovered and Upcoming Bikes is cliked
+22:08:40.820 [main] INFO  TestCases.IdentifyBikes - Manufacture HONDA is chosen
+22:08:41.228 [main] INFO  TestCases.IdentifyBikes - Test Case Passed
+22:08:41.314 [main] INFO  TestCases.IdentifyBikes - View More button is clicked
+22:08:51.593 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+22:09:06.931 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+22:10:46.652 [main] INFO  TestCases.Identify_UsedCars - Used car menu is hovered and Location is chosen as Chennai
+22:10:47.210 [main] INFO  TestCases.Identify_UsedCars - Test Case Passed
+22:10:53.408 [main] INFO  TestCases.Identify_UsedCars - Popular Models are displayed
+22:10:53.408 [main] INFO  TestCases.Identify_UsedCars - *********************** Ending Used Cars *************************
+22:11:08.030 [main] INFO  TestCases.LogInGoogle - *********************** Starting Google Account Login *************************
+22:21:55.270 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+22:22:38.647 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+22:22:54.561 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+22:27:05.128 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+22:42:44.195 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+09:34:10.498 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+09:35:28.152 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+09:35:38.868 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+09:51:17.416 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+09:52:50.104 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+09:53:56.286 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+09:55:12.585 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+09:55:56.029 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+09:56:23.000 [main] INFO  TestCases.Identify_UsedCars - Used car menu is hovered and Location is chosen as Chennai
+09:56:23.446 [main] INFO  TestCases.Identify_UsedCars - Test Case Passed
+09:56:31.415 [main] INFO  TestCases.Identify_UsedCars - Popular Models are displayed
+09:56:31.416 [main] INFO  TestCases.Identify_UsedCars - *********************** Ending Used Cars *************************
+09:56:51.458 [main] INFO  TestCases.LogInGoogle - *********************** Starting Google Account Login *************************
+09:56:57.235 [main] INFO  TestCases.LogInGoogle - Login button is clicked
+09:56:59.237 [main] INFO  TestCases.LogInGoogle - Continue with google option is clicked
+09:57:02.529 [main] INFO  TestCases.LogInGoogle - Email Id is entered
+09:57:02.779 [main] INFO  TestCases.LogInGoogle - Test Case Passed
+09:57:08.397 [main] INFO  TestCases.LogInGoogle - Error message is captured
+09:57:08.397 [main] INFO  TestCases.LogInGoogle - *********************** Ending Google Account Login *************************

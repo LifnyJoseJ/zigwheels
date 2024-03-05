@@ -1,0 +1,42 @@
+14:56:51.470 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+14:56:53.862 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+14:57:41.761 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+14:57:42.933 [main] INFO  TestCases.Identify_UsedCars - Popular Models are displayed
+14:57:42.934 [main] INFO  TestCases.Identify_UsedCars - *********************** Ending Used Cars *************************
+14:58:34.181 [main] INFO  TestCases.LogInGoogle - *********************** Starting Google Account Login *************************
+15:44:09.243 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+15:44:12.125 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+15:45:16.070 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+15:45:17.515 [main] INFO  TestCases.Identify_UsedCars - Popular Models are displayed
+15:45:17.515 [main] INFO  TestCases.Identify_UsedCars - *********************** Ending Used Cars *************************
+15:46:19.313 [main] INFO  TestCases.LogInGoogle - *********************** Starting Google Account Login *************************
+16:03:40.329 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+16:03:43.304 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+16:04:42.775 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+16:04:44.362 [main] INFO  TestCases.Identify_UsedCars - Popular Models are displayed
+16:04:44.362 [main] INFO  TestCases.Identify_UsedCars - *********************** Ending Used Cars *************************
+16:05:49.744 [main] INFO  TestCases.LogInGoogle - *********************** Starting Google Account Login *************************
+16:18:41.999 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+16:18:45.022 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+16:19:45.407 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+16:19:46.733 [main] INFO  TestCases.Identify_UsedCars - Popular Models are displayed
+16:19:46.733 [main] INFO  TestCases.Identify_UsedCars - *********************** Ending Used Cars *************************
+16:20:45.403 [main] INFO  TestCases.LogInGoogle - *********************** Starting Google Account Login *************************
+16:26:19.186 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+16:28:24.282 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+16:29:50.429 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+16:29:53.075 [main] INFO  TestCases.IdentifyBikes - New Bikes menu is hovered and Upcoming Bikes is cliked
+16:30:55.950 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+16:31:37.956 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+16:31:47.603 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+16:32:18.827 [main] INFO  TestCases.Identify_UsedCars - Popular Models are displayed
+16:32:18.827 [main] INFO  TestCases.Identify_UsedCars - *********************** Ending Used Cars *************************
+16:32:27.459 [main] INFO  TestCases.LogInGoogle - *********************** Starting Google Account Login *************************
+16:33:08.889 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+16:33:50.824 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+16:34:01.556 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+16:34:29.965 [main] INFO  TestCases.IdentifyBikes - *********************** Starting Upcomming Bikes*************************
+16:35:11.831 [main] INFO  TestCases.IdentifyBikes - *********************** Ending Upcoming Bikes*************************
+16:35:20.682 [main] INFO  TestCases.Identify_UsedCars - *********************** Starting Used Cars *************************
+16:35:52.308 [main] INFO  TestCases.Identify_UsedCars - Popular Models are displayed
+16:35:52.309 [main] INFO  TestCases.Identify_UsedCars - *********************** Ending Used Cars *************************

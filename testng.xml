@@ -6,10 +6,10 @@
 </listeners>
   <test thread-count="5" name="Test">
   <parameter name ="os" value="Windows"/>
-  <parameter name = "browser" value="Chrome"/>
+  <parameter name = "browser" value="chrome"/>
     <classes>
       <class name="TestCases.IdentifyBikes"/>
-      <class name ="TestCases.Identify_UsedCars"/>
+      <class name ="TestCases.Identify_UsedCars"/> 
       <class name ="TestCases.LogInGoogle"/>
     </classes>
   </test> <!-- Test -->

@@ -21,10 +21,18 @@ public class IdentifyBikes extends BaseClass{
 	Upcomming_bikes bike;
 	
 	
-		@Test(priority =1 , groups= {"regression","sanity"})
+	@Test(priority =1, groups = {"regression" , "sanity"})
+	void verify_url()
+	{
+		logger.info("Verifying URL");
+		String ActualURL = p.getProperty("appURL");
+		String ExpectedURL = driver.getCurrentUrl();
+		Assert.assertEquals(ActualURL, ExpectedURL);
+	}
+		@Test(priority =2 , groups= {"regression","sanity"})
 		void upcomingMenu()
 		{
-				logger.info("*********************** Starting Upcomming Bikes*************************");
+		logger.info("*********************** Starting Upcomming Bikes*************************");
 		bike = new Upcomming_bikes(driver);
 		bike.select_upcommingBikes();
 		logger.info("New Bikes menu is hovered and Upcoming Bikes is cliked");
@@ -32,14 +40,14 @@ public class IdentifyBikes extends BaseClass{
 		
 		
 		
-		@Test(priority = 2 , groups= {"regression","sanity"})
+		@Test(priority = 3 , groups= {"regression","sanity"})
 		void choose_manu()
 		{
 		bike.manufacture();
 		logger.info("Manufacture HONDA is chosen");
 		}
 		
-		@Test(priority =3 , groups= {"regression"})
+		@Test(priority =4 , groups= {"regression"})
 		void verify_head()
 		{
 		boolean value = bike.verify_head();
@@ -57,7 +65,7 @@ public class IdentifyBikes extends BaseClass{
 		}
 		
 		
-		@Test(priority =4,groups= {"regression"})
+		@Test(priority =5,groups= {"regression"})
 		void display_bikes()
 		{
 		bike.filter_bikes();

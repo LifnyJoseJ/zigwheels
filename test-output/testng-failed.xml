@@ -6,35 +6,15 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="Windows"/>
-    <parameter name="browser" value="Chrome"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
       <class name="TestCases.LogInGoogle">
         <methods>
           <include name="verify_LoginPage"/>
-          <include name="capture_msg"/>
+          <include name="setup"/>
           <include name="tearDown"/>
-          <include name="click_login"/>
-          <include name="click_google_opt"/>
-          <include name="getDriver"/>
         </methods>
       </class> <!-- TestCases.LogInGoogle -->
-      <class name="TestCases.Identify_UsedCars">
-        <methods>
-          <include name="usedCars_menu"/>
-          <include name="tearDown"/>
-          <include name="verify_head"/>
-          <include name="getDriver"/>
-        </methods>
-      </class> <!-- TestCases.Identify_UsedCars -->
-      <class name="TestCases.IdentifyBikes">
-        <methods>
-          <include name="tearDown"/>
-          <include name="choose_manu"/>
-          <include name="upcomingMenu"/>
-          <include name="getDriver"/>
-          <include name="verify_head"/>
-        </methods>
-      </class> <!-- TestCases.IdentifyBikes -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

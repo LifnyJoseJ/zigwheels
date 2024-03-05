@@ -4,7 +4,7 @@
   <artifactId>Hackathon</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <build>
+ <!-- <build>
   	<pluginManagement>
   		<plugins>
   			<plugin>
@@ -12,7 +12,7 @@
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.12.1</version>
           <configuration>
-            <!-- put your configurations here -->
+             put your configurations here 
           </configuration>
         </plugin>
         
@@ -33,7 +33,7 @@
   	
   	
   	</pluginManagement>
-  </build>
+  </build> -->
   
   
   

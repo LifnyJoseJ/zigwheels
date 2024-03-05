@@ -51,15 +51,11 @@ public class GoogleSignIn {
 	
 	
 	//Actions
-	public void home()
-	{
-		btn_home.click();
-	}
 	public void logIn() throws InterruptedException
 	{
 	
 		btn_login.click();
-		Thread.sleep(5000);
+		Thread.sleep(3000);
 		
 	}
 	
@@ -68,15 +64,6 @@ public class GoogleSignIn {
 		btn_google.click();
 	}
 	
-	public void enter_mailId() 
-	{
-		Set<String> id = driver.getWindowHandles();
-		List<String> list = new ArrayList(id);
-		String childId = list.get(1);
-		driver.switchTo().window(childId);
-		//Thread.sleep(3000);
-		txt_emailId.sendKeys("adcd@gmail.com");
-	}
 	
 	public boolean verify_LogInPage()
 	{
@@ -89,17 +76,42 @@ public class GoogleSignIn {
 		}
 	}
 	
-	public void capture_ErrorMsg() throws IOException, InterruptedException
+	public void switch_driver() 
 	{
-		btn_next.click();
+		Set<String> id = driver.getWindowHandles();
+		List<String> list = new ArrayList(id);
+		String childId = list.get(1);
+		driver.switchTo().window(childId);
+	}
+	public void enter_email_id() throws InterruptedException
+	{
+		txt_emailId.sendKeys("adcd@gmail.com");
 		Thread.sleep(3000);
+		btn_next.click();
+	}
+	
+	 
+	public boolean verify_errormsg()
+	{
+		try {
+		 
+		return(msg_error.isDisplayed());
+		}catch(Exception e)
+		{
+			return (false);
+		}
+		 
+	}
+	public void capture_errormsg() throws IOException, InterruptedException
+	{
+		//btn_next.click();
+		//Thread.sleep(3000);
+		//boolean status = msg_error.isDisplayed();
 		String msg =  msg_error.getText();
 		System.out.println("*************************Error Message**********************");
 		System.out.println(msg);
-//		TakesScreenshot ts = (TakesScreenshot) driver;
-//		File scr = ts.getScreenshotAs(OutputType.FILE);
-//		File trg = new File(System.getProperty("user.dir") + "\\ScreenShot_Login\\Login_error_msg.png");
-//		FileUtils.copyFile(scr, trg);
+		
+		
 		Shutterbug.shootPage(driver,Capture.FULL, true).save("C:\\Users\\2303711\\eclipse-workspace\\Hackathon\\ScreenShot_Login\\GoogleLogin");
 	}
 }
